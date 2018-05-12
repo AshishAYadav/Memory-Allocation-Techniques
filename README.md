@@ -1,5 +1,7 @@
 "# Memory-Allocation-Techniques" 
-########################################## Memory Allocation - Python 3.6 #############################################################
+
+Memory Allocation - Python 3.6
+
 Hosted on GitHub																													  
 Author: Ashish Yadav         <Email>:<ash24aniy@gmail.com>																			  
 linkedIn <https://in.linkedin.com/in/ashishayadav>																					  
